@@ -19,7 +19,7 @@ Welcome to the Fenerbahce CPU project! This group project focuses on implementin
 ### Verilog Code
 
 The Verilog code can be simulated using a Verilog simulator *https://avionchip.com/virtualfpga/*
-The code `fbCPU_MONM_Grp.v`
+The code *fbCPU_MONM_Grp.v*
 
 ### PowerPoint Presentation
 
