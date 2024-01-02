@@ -1,4 +1,42 @@
-# FENERBAHCE CPU
-
-## Simulator
 My group and I utilized an online simulator provided by our teacher, available at https://avionchip.com/virtualfpga/.
+
+# Fenerbahce CPU Project
+
+## Overview
+
+Welcome to the Fenerbahce CPU project! This group project focuses on implementing a CPU using the Verilog simulator. This repository contains the Verilog code for the Fenerbahce CPU, a PowerPoint presentation explaining the code, a document detailing the tools and methodologies used, and a video presentation providing an in-depth explanation of the PowerPoint slides.
+
+## Contents
+
+1. **Verilog Code** (*verilog_code*): The directory containing the Verilog code for the Fenerbahce CPU. This is the core of our project, where the CPU's functionality is implemented.
+
+2. **PowerPoint Presentation** (*presentation*): The presentation slides explaining the code, architecture, and implementation details of the Fenerbahce CPU.
+
+3. **Project Documentation** (*documentation*): A document file (e.g., Word or PDF) providing comprehensive information about the tools, methodologies, and design decisions made during the development of the Fenerbahce CPU.
+
+4. **Video Presentation** (*video*): A video presentation where the team explains the PowerPoint slides in detail, providing a visual walkthrough of the Fenerbahce CPU project.
+
+## How to Use
+
+### Verilog Code
+
+The Verilog code can be simulated using a Verilog simulator such as ModelSim or any other compatible simulator. Follow the instructions in the `verilog_code/README.md` file for detailed guidance on simulation and testing.
+
+### PowerPoint Presentation
+
+The PowerPoint presentation in the `presentation` directory serves as a visual guide to understanding the Fenerbahce CPU project. Each slide explains different aspects of the project, from design choices to implementation details.
+
+### Project Documentation
+
+Refer to the documentation in the `documentation` directory for a detailed overview of the tools and methodologies used in the Fenerbahce CPU project. This document provides insights into the decision-making process and the rationale behind the design.
+
+### Video Presentation
+
+Watch the video presentation in the `video` directory to get a comprehensive walkthrough of the PowerPoint slides. The video offers a more dynamic explanation of the Fenerbahce CPU project, with the team elaborating on each key point.
+
+### Contributors
+Marouan Boumchahate
+Ousama Jamal Eddin
+Norris Nishimwe
+MHD Labib Almohammad
+Almohammad
