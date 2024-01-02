@@ -6,13 +6,13 @@ Welcome to the Fenerbahce CPU project! This group project focuses on implementin
 
 ## Contents
 
-1. **Verilog Code** (*verilog_code*): The directory containing the Verilog code for the Fenerbahce CPU. This is the core of our project, where the CPU's functionality is implemented.
+1. **Verilog Code** (*fbCPU_MONM_Grp.v*): The directory containing the Verilog code for the Fenerbahce CPU. This is the core of our project, where the CPU's functionality is implemented.
 
-2. **PowerPoint Presentation** (*presentation*): The presentation slides explaining the code, architecture, and implementation details of the Fenerbahce CPU.
+2. **PowerPoint Presentation** (*fbCPU_MONM_grp - PowerPoint*): The presentation slides explaining the code, architecture, and implementation details of the Fenerbahce CPU.
 
-3. **Project Documentation** (*documentation*): A document file (e.g., Word or PDF) providing comprehensive information about the tools, methodologies, and design decisions made during the development of the Fenerbahce CPU.
+3. **Project Documentation** (*FB_CPU-Project_MONM-Group_.pdf*): A document file (e.g., Word or PDF) providing comprehensive information about the tools, methodologies, and design decisions made during the development of the Fenerbahce CPU.
 
-4. **Video Presentation** (*video*): A video presentation where the team explains the PowerPoint slides in detail, providing a visual walkthrough of the Fenerbahce CPU project.
+4. **Video Presentation** (*fbCPU_MONM_grp - Video*): A video presentation where the team explains the PowerPoint slides in detail, providing a visual walkthrough of the Fenerbahce CPU project.
 
 ## How to Use
 
@@ -23,7 +23,7 @@ The code in `fbCPU_MONM_Grp.v`
 
 ### PowerPoint Presentation
 
-The PowerPoint presentation in the `fbCPU_MONM_grp - Video` directory serves as a visual guide to understanding the Fenerbahce CPU project. Each slide explains different aspects of the project, from design choices to implementation details.
+The PowerPoint presentation in the `fbCPU_MONM_grp - PowerPoint` directory serves as a visual guide to understanding the Fenerbahce CPU project. Each slide explains different aspects of the project, from design choices to implementation details.
 
 ### Project Documentation
 
