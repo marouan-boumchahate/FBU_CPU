@@ -35,8 +35,7 @@ Refer to the documentation in the `documentation` directory for a detailed overv
 Watch the video presentation in the `video` directory to get a comprehensive walkthrough of the PowerPoint slides. The video offers a more dynamic explanation of the Fenerbahce CPU project, with the team elaborating on each key point.
 
 ### Contributors
-Marouan Boumchahate
-Ousama Jamal Eddin
-Norris Nishimwe
-MHD Labib Almohammad
-Almohammad
+Marouan Boumchahate<br>
+Ousama Jamal Eddin<br>
+Norris Nishimwe<br>
+MHD Labib Almohammad<br>
