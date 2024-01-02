@@ -12,7 +12,7 @@ Welcome to the Fenerbahce CPU project! This group project focuses on implementin
 
 3. **Project Documentation** (*FB_CPU-Project_MONM-Group_.pdf*): A document file (e.g., Word or PDF) providing comprehensive information about the tools, methodologies, and design decisions made during the development of the Fenerbahce CPU.
 
-4. **Video Presentation** (*fbCPU_MONM_grp - Video*): A video presentation where the team explains the PowerPoint slides in detail, providing a visual walkthrough of the Fenerbahce CPU project.
+4. **Video Presentation** (*/fbCPU_MONM_grp - Video*): A video presentation where the team explains the PowerPoint slides in detail, providing a visual walkthrough of the Fenerbahce CPU project.
 
 ## How to Use
 
