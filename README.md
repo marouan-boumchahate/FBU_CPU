@@ -20,7 +20,7 @@ Welcome to the Fenerbahce CPU project! This group project focuses on implementin
 
 ### Verilog Code
 
-The Verilog code can be simulated using a Verilog simulator such as ModelSim or any other compatible simulator. Follow the instructions in the `verilog_code/README.md` file for detailed guidance on simulation and testing.
+The Verilog code can be simulated using a Verilog simulator *https://avionchip.com/virtualfpga/*
 
 ### PowerPoint Presentation
 
